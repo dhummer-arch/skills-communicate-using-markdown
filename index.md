@@ -3,3 +3,5 @@
 #### Header <h4>
 ###### Header <h6>
 No header
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
